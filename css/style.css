@@ -1,4 +1,12 @@
 body{
     background-color: aquamarine; 
     color: blueviolet; 
+} 
+h1{
+    font-style: italic; 
+    color: darkkhaki;
+} 
+img{
+    width: 550px; 
+    height: 340px;
 }
